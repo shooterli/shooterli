@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="100" viewBox="0 0 760 100" role="img" aria-labelledby="title">
+  <title id="title">Parallel paths</title>
+  <rect x=".5" y=".5" width="759" height="99" rx="8" fill="#f5f5fa" stroke="#dedde8"/>
+  <g stroke="#e2e1ec">
+    <path d="M24 24h712M24 50h712M24 76h712"/>
+    <path d="M78 16v68m86-68v68m86-68v68m86-68v68m86-68v68m86-68v68m86-68v68m86-68v68" stroke-dasharray="2 4"/>
+  </g>
+  <g fill="none" stroke-width="1.6">
+    <path d="M24 24h132c100 0 122 27 224 27s124-27 224-27h132" stroke="#8574b4"/>
+    <path d="M24 37h148c100 0 117 24 208 24s108-24 208-24h148" stroke="#634d9c"/>
+    <path d="M24 50h156c92 0 118-19 200-19s108 19 200 19h156" stroke="#4b3585"/>
+    <path d="M24 63h132c100 0 134-21 224-21s124 21 224 21h132" stroke="#735fa7"/>
+    <path d="M24 76h148c100 0 117-25 208-25s108 25 208 25h148" stroke="#9c8cc2"/>
+  </g>
+  <g fill="#f5f5fa" stroke="#634d9c" stroke-width="1.5">
+    <circle cx="24" cy="37" r="3.5"/>
+    <circle cx="380" cy="31" r="3.5"/>
+    <circle cx="736" cy="63" r="3.5"/>
+  </g>
+</svg>
