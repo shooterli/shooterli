@@ -4,10 +4,7 @@ I'm a final-year Software Engineering undergraduate at **Tsinghua University**. 
 
 ![Illustration of parallel paths converging and branching](assets/parallel-paths.svg)
 
-## Research interests
-
-- **Large language models (LLMs)** — how training and inference choices affect model behavior and efficiency.
-- **Diffusion transformers (DiT)** — how architecture and sampling choices affect visual generation quality and compute cost.
+**Research interests** · RL, DiT
 
 ## Education
 
